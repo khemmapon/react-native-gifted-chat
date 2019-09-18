@@ -14,7 +14,7 @@ media/
 App.js
 app.json
 metro.config.js
-src/
+# src/
 tsconfig.json
 tslint.json
 yarn.lock
