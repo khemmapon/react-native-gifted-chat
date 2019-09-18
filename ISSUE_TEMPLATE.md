@@ -17,4 +17,3 @@
 * React Native version: [FILL THIS OUT]
 * react-native-gifted-chat version: [FILL THIS OUT]
 * Platform(s) (iOS, Android, or both?): [FILL THIS OUT]
-* TypeScript version: [FILL THIS OUT]
